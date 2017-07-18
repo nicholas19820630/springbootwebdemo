@@ -1,0 +1,66 @@
+2017-07-17 11:23:35,635 INFO (StartupInfoLogger.java:48)- Starting WebdemoApplication on SUNX-25 with PID 372484 (E:\myeclipse\workspace\springbootwebdemo\target\classes started by Administrator in E:\myeclipse\workspace\springbootwebdemo)
+2017-07-17 11:23:35,636 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-17 11:23:35,637 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-17 11:23:36,194 INFO (StartupInfoLogger.java:57)- Started WebdemoApplication in 0.627 seconds (JVM running for 426.495)
+2017-07-17 11:24:06,765 INFO (StartupInfoLogger.java:48)- Starting WebdemoApplication on SUNX-25 with PID 372484 (E:\myeclipse\workspace\springbootwebdemo\target\classes started by Administrator in E:\myeclipse\workspace\springbootwebdemo)
+2017-07-17 11:24:06,765 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-17 11:24:06,765 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-17 11:24:07,152 INFO (StartupInfoLogger.java:57)- Started WebdemoApplication in 0.419 seconds (JVM running for 457.45)
+2017-07-17 11:24:13,492 DEBUG (HelloWorldController.java:22)- 访问hello
+2017-07-17 11:25:45,294 INFO (StartupInfoLogger.java:48)- Starting WebdemoApplication on SUNX-25 with PID 372484 (E:\myeclipse\workspace\springbootwebdemo\target\classes started by Administrator in E:\myeclipse\workspace\springbootwebdemo)
+2017-07-17 11:25:45,295 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-17 11:25:45,295 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-17 11:25:45,687 INFO (StartupInfoLogger.java:57)- Started WebdemoApplication in 0.431 seconds (JVM running for 555.978)
+2017-07-17 11:25:47,843 DEBUG (HelloWorldController.java:22)- 访问hello
+2017-07-17 11:26:15,262 INFO (StartupInfoLogger.java:48)- Starting WebdemoApplication on SUNX-25 with PID 372484 (E:\myeclipse\workspace\springbootwebdemo\target\classes started by Administrator in E:\myeclipse\workspace\springbootwebdemo)
+2017-07-17 11:26:15,262 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-17 11:26:15,262 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-17 11:26:15,638 INFO (StartupInfoLogger.java:57)- Started WebdemoApplication in 0.408 seconds (JVM running for 585.927)
+2017-07-17 11:26:18,543 DEBUG (HelloWorldController.java:22)- 访问hello
+2017-07-17 11:26:18,544 DEBUG (HelloWorldController.java:23)- hello debug logger
+2017-07-17 11:27:56,389 INFO (StartupInfoLogger.java:48)- Starting WebdemoApplication on SUNX-25 with PID 372484 (E:\myeclipse\workspace\springbootwebdemo\target\classes started by Administrator in E:\myeclipse\workspace\springbootwebdemo)
+2017-07-17 11:27:56,389 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-17 11:27:56,389 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-17 11:27:56,755 INFO (StartupInfoLogger.java:57)- Started WebdemoApplication in 0.39 seconds (JVM running for 687.036)
+2017-07-17 11:27:59,578 DEBUG (HelloWorldController.java:22)- 访问hello
+2017-07-17 11:27:59,580 DEBUG (HelloWorldController.java:23)- hello debug logger
+2017-07-17 11:28:53,428 INFO (StartupInfoLogger.java:48)- Starting WebdemoApplication on SUNX-25 with PID 372484 (E:\myeclipse\workspace\springbootwebdemo\target\classes started by Administrator in E:\myeclipse\workspace\springbootwebdemo)
+2017-07-17 11:28:53,428 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-17 11:28:53,428 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-17 11:28:53,784 INFO (StartupInfoLogger.java:57)- Started WebdemoApplication in 0.381 seconds (JVM running for 744.06)
+2017-07-17 11:30:03,460 INFO (StartupInfoLogger.java:48)- Starting WebdemoApplication on SUNX-25 with PID 372484 (E:\myeclipse\workspace\springbootwebdemo\target\classes started by Administrator in E:\myeclipse\workspace\springbootwebdemo)
+2017-07-17 11:30:03,461 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-17 11:30:03,461 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-17 11:30:03,845 INFO (StartupInfoLogger.java:57)- Started WebdemoApplication in 0.409 seconds (JVM running for 814.117)
+2017-07-17 11:30:53,497 INFO (StartupInfoLogger.java:48)- Starting WebdemoApplication on SUNX-25 with PID 372484 (E:\myeclipse\workspace\springbootwebdemo\target\classes started by Administrator in E:\myeclipse\workspace\springbootwebdemo)
+2017-07-17 11:30:53,497 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-17 11:30:53,497 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-17 11:30:53,849 INFO (StartupInfoLogger.java:57)- Started WebdemoApplication in 0.378 seconds (JVM running for 864.116)
+2017-07-17 11:30:58,416 INFO (StartupInfoLogger.java:48)- Starting WebdemoApplication on SUNX-25 with PID 372484 (E:\myeclipse\workspace\springbootwebdemo\target\classes started by Administrator in E:\myeclipse\workspace\springbootwebdemo)
+2017-07-17 11:30:58,416 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-17 11:30:58,416 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-17 11:30:58,753 INFO (StartupInfoLogger.java:57)- Started WebdemoApplication in 0.361 seconds (JVM running for 869.02)
+2017-07-17 11:31:01,618 DEBUG (HelloWorldController.java:22)- 访问hello
+2017-07-17 11:31:01,619 DEBUG (HelloWorldController.java:23)- hello debug logger
+2017-07-17 11:32:19,646 INFO (StartupInfoLogger.java:48)- Starting WebdemoApplication on SUNX-25 with PID 372484 (E:\myeclipse\workspace\springbootwebdemo\target\classes started by Administrator in E:\myeclipse\workspace\springbootwebdemo)
+2017-07-17 11:32:19,646 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-17 11:32:19,646 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-17 11:32:19,999 INFO (StartupInfoLogger.java:57)- Started WebdemoApplication in 0.388 seconds (JVM running for 950.26)
+2017-07-17 11:34:10,756 INFO (StartupInfoLogger.java:48)- Starting WebdemoApplication on SUNX-25 with PID 372484 (E:\myeclipse\workspace\springbootwebdemo\target\classes started by Administrator in E:\myeclipse\workspace\springbootwebdemo)
+2017-07-17 11:34:10,757 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-17 11:34:10,757 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-17 11:34:11,074 INFO (StartupInfoLogger.java:57)- Started WebdemoApplication in 0.34 seconds (JVM running for 1061.326)
+2017-07-17 11:34:13,629 INFO (StartupInfoLogger.java:48)- Starting WebdemoApplication on SUNX-25 with PID 372484 (E:\myeclipse\workspace\springbootwebdemo\target\classes started by Administrator in E:\myeclipse\workspace\springbootwebdemo)
+2017-07-17 11:34:13,632 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-17 11:34:13,633 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-17 11:34:13,936 INFO (StartupInfoLogger.java:57)- Started WebdemoApplication in 0.328 seconds (JVM running for 1064.188)
+2017-07-17 11:34:25.473 [restartedMain] INFO  com.example.webdemo.WebdemoApplication - (StartupInfoLogger.java:48) - Starting WebdemoApplication on SUNX-25 with PID 372484 (E:\myeclipse\workspace\springbootwebdemo\target\classes started by Administrator in E:\myeclipse\workspace\springbootwebdemo)
+2017-07-17 11:34:25.474 [restartedMain] DEBUG com.example.webdemo.WebdemoApplication - (StartupInfoLogger.java:51) - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-17 11:34:25.474 [restartedMain] INFO  com.example.webdemo.WebdemoApplication - (SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+2017-07-17 11:34:25.782 [restartedMain] INFO  com.example.webdemo.WebdemoApplication - (StartupInfoLogger.java:57) - Started WebdemoApplication in 0.331 seconds (JVM running for 1076.034)
+2017-07-17 11:35:30.491 [http-nio-127.0.0.1-8080-exec-1] DEBUG c.example.webdemo.controller.HelloWorldController - (HelloWorldController.java:22) - 访问hello
+2017-07-17 11:35:30.492 [http-nio-127.0.0.1-8080-exec-1] DEBUG c.example.webdemo.controller.HelloWorldController - (HelloWorldController.java:23) - hello debug logger
+2017-07-17 13:32:35.009 [restartedMain] INFO  com.example.webdemo.WebdemoApplication - (StartupInfoLogger.java:48) - Starting WebdemoApplication on SUNX-25 with PID 369636 (E:\myeclipse\workspace\springbootwebdemo\target\classes started by Administrator in E:\myeclipse\workspace\springbootwebdemo)
+2017-07-17 13:32:35.024 [restartedMain] DEBUG com.example.webdemo.WebdemoApplication - (StartupInfoLogger.java:51) - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-17 13:32:35.024 [restartedMain] INFO  com.example.webdemo.WebdemoApplication - (SpringApplication.java:593) - No active profile set, falling back to default profiles: default
+2017-07-17 13:32:37.348 [restartedMain] INFO  com.example.webdemo.WebdemoApplication - (StartupInfoLogger.java:57) - Started WebdemoApplication in 2.554 seconds (JVM running for 2.986)

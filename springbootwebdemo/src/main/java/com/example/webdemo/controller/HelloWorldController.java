@@ -20,7 +20,7 @@ public class HelloWorldController
     public String index() 
     {
     	logger.debug("访问hello"); 
-    	logger.debug("hello debug logger");
+    	logger.debug("hello debug logger for hellhaha");
         return "Hello World my springboot 123";
     }
     

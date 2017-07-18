@@ -17,6 +17,6 @@ public class WebdemoApplication {
 		 * */
 		SpringApplication.run(WebdemoApplication.class, args);
 		
-		System.out.println("main sprintboot start");
+		System.out.println("main sprintboot start success.");
 	}
 }

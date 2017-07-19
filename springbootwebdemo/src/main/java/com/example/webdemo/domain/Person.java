@@ -8,7 +8,7 @@ package com.example.webdemo.domain;
 public class Person //implements Serializable 
 {
 	//serialVersionUID
-	//private static final long serialVersionUID = 4066575787097231411L;
+	//private static final long serialVersionUID = 1L; 
 	
 	private int id;
     private String name;

@@ -21,7 +21,7 @@ public class HelloWorldController
     {
     	logger.debug("访问hello"); 
     	logger.debug("hello debug logger for hellhaha");
-        return "Hello World my springboot 123";
+        return "Hello World my springboot 123 hellohaha";
     }
     
     @RequestMapping("/hello/{myName}")  
